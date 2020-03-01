@@ -79,7 +79,7 @@ function serverMessage(response2) {
 }
 
 function fetchmsg() {
-
+  // var url = 'http://localhost:3000/send-msg';
   var url = 'https://obscure-caverns-19802.herokuapp.com/send-msg';
 
   const data = new URLSearchParams();
