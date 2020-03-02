@@ -6,10 +6,10 @@ Note that at present it allows only one Pizza item of any quantity in one order.
 ![](images/Chatbotdemo.png)
 
 The Chatbot supports the following use-cases:
- UI to chat with the chatbot
- Take user details
- Order a pizza
- Check Pizza Status by Order ID
+ 1) UI to chat with the chatbot
+ 2)Take user details
+ 3)Order a pizza
+ 4)Check Pizza Status by Order ID
  
 App is deployed on a server, and is accessible at	http://bit.ly/YoYoPizza
 
