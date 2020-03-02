@@ -6,7 +6,7 @@ Note that at present it allows only one Pizza item of any quantity in one order.
 ![](images/Chatbotdemo.png)
 
 The Chatbot supports the following use-cases:
- 1) UI to chat with the chatbot
+ 1)UI to chat with the chatbot
  2)Take user details
  3)Order a pizza
  4)Check Pizza Status by Order ID
